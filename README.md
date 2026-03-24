@@ -16,12 +16,12 @@ Frontend:
 
 Прочее:
 - REST API
-- NestJS
-- PostgreSQL
+- NestJS, PostgreSQL, Jest
+- Go, Python
 
 ---
 
-### Проекты
+### Основные проекты
 
 #### Moda-Lab
 
@@ -53,7 +53,7 @@ Frontend:
 
 ---
 
-#### iemis
+#### IEMIS
 
 Учебный проект CRUD fullstack-приложения по управлению работой небольшого предприятия. Цель - учёт сотрудников и подсчёт всех приходов, расходов и остатков.  
 Репозиторий: https://github.com/Kirill-Bokov/iemis
